@@ -42,5 +42,5 @@ for x in bids:
         Winner = current_name
         Highest_Bid = current_amount
 
-print(f"The winnder is {Winner} with the bid amount of ${Highest_Bid}!")
+print(f"The winner is {Winner} with the bid amount of ${Highest_Bid}!")
 
